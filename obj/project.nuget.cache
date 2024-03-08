@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EYXGt8GvvcADQdadweiB2rxEc9kpMdaWZfnkcAUB8yi8aMy7eXc76bGUEdb0J1dG3bvkxn3eVI0Rypm4LDPDdA==",
+  "success": true,
+  "projectFilePath": "D:\\arquivos\\Estudo\\C#\\AprendaMVC\\MeuMVC\\MeuMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lepstops\\.nuget\\packages\\bootstrap\\5.1.3\\bootstrap.5.1.3.nupkg.sha512",
+    "C:\\Users\\Lepstops\\.nuget\\packages\\fontawesome\\4.7.0\\fontawesome.4.7.0.nupkg.sha512",
+    "C:\\Users\\Lepstops\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lepstops\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lepstops\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lepstops\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
